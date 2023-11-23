@@ -1,0 +1,37 @@
+main {
+    display: flex;
+    justify-content: center;
+    
+    padding: 2rem;
+}
+td {
+    width: 4em;
+    height: 4em;
+ }
+.black{
+    background: #000;
+    color: #fff;
+}
+.white {
+    background: #fff;
+    color: #000;
+}
+/*
+footer{
+    position: fixed;
+    background-color: #870058;
+    width: 100%;
+    left: 0;
+    bottom: 0;
+    margin-top: 20px;
+    padding: 20px;
+    text-align: center;
+    color: #ffffff;
+}*/
+footer {
+    display: flex;
+    justify-content: center;
+    padding: 2rem;
+    background-color: #870058;
+    color: #fff;
+}

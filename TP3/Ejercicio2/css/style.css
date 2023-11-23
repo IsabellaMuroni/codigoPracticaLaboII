@@ -1,0 +1,49 @@
+main{
+    align-items: center;
+}
+/*
+table{
+    width: 60%;
+    height: 300px;
+    border-collapse: separate;
+    align-items: center;
+    border-spacing: 5px 1rem;
+}
+
+td{
+    border: orange 3px solid;
+    background-color: orange;
+   
+    text-align: center;
+    font-weight: bold;
+    font-size: xx-large;
+    border-radius: 5px;
+    box-shadow:0 4px 8px 0px gray;
+   
+}*/
+table {
+    border-spacing: 5px 1rem;
+    padding: 0 2em 1em 0;
+    
+    border-collapse: separate;
+  }
+  
+  td {
+    width: 6em;
+    height: 6em;
+    background: orange;
+    text-align: center;
+    vertical-align: middle;
+    border-radius: 5px;
+    font-weight: bold;
+  }
+
+footer{
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+    height: 50px;
+    padding: 5px;
+    vertical-align: middle;
+}
+  
