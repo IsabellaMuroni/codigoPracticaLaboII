@@ -1,0 +1,48 @@
+main{
+    
+    align-content: center;
+    margin: 10px;
+}
+
+form{
+    background-color: #FFE74C;
+    margin: 10px;
+    padding: 10px;
+    width: 50%;
+    align-items:center;
+}
+button{
+    margin: 10px;
+    background-color: #46B1C9;
+}
+.procesa{
+    margin: 15px;
+    padding: 10px;
+}
+.divisa, .compra,.montoD, .msj{
+    text-align: center;
+    align-content: center;
+    justify-content: center;
+}
+.divisa{
+    background-color: #B7245C;
+   
+    color: #EDCBB1;
+}
+.compra{
+    background-color: #EDCBB1;
+    
+}
+.montoD{
+    background-color: #fff;
+}
+.msj{
+    background-color: #929982;
+}
+footer {
+    display: flex;
+    justify-content: center;
+    padding: 2rem;
+    background-color: #870058;
+    color: #fff;
+}

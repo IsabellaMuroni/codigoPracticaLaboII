@@ -1,0 +1,6 @@
+Maria Lucrecia;500;45
+Maria Lucrecia;500;45
+Ignacio;600;90
+Pepa;10000;45
+Nombrenuevo;1500000;60
+Franco;5888;30
