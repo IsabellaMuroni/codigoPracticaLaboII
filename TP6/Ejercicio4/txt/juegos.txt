@@ -1,0 +1,3 @@
+juegoJuego;8;2023-11-28;drama;Captura de pantalla 2023-10-12 170148.png
+juegoJuego;8;2023-11-28;drama;Captura de pantalla 2023-10-12 170148.png
+StarWars;9;2023-11-11;cficcion;../img/portadas/StarWars.jpg

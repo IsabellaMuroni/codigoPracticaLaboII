@@ -1,0 +1,58 @@
+main{
+    
+    align-content: center;
+    margin: 10px;
+}
+
+form{
+    background-color: #342E37;
+    color: #ffffff;
+    margin: 10px;
+    padding: 10px;
+    width: 50%;
+    align-items:center;
+    border-radius: 15px;
+    text-align: center;
+    align-content: center;
+    justify-content: center;
+}
+button{
+    text-align: center;
+    margin: 10px;
+    padding: 5px 10px;
+    background-color: #342E37;
+    color: #ffffff;
+    border-color: #ffffff;
+    border-radius: 10px;
+}
+.procesa{
+    margin: 15px;
+    padding: 10px;
+}
+.divisa, .compra,.montoD, .msj{
+    text-align: center;
+    align-content: center;
+    justify-content: center;
+}
+.divisa{
+    background-color: #B7245C;
+   
+    color: #EDCBB1;
+}
+.compra{
+    background-color: #EDCBB1;
+    
+}
+.montoD{
+    background-color: #fff;
+}
+.msj{
+    background-color: #929982;
+}
+footer {
+    display: flex;
+    justify-content: center;
+    padding: 2rem;
+    background-color: #870058;
+    color: #fff;
+}
