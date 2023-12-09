@@ -31,6 +31,9 @@
                 
                     echo '<td>' .$userDB . '</td>';
                     echo '<td>' .$tipoDB . '</td>';
+                    echo '<td><i class="bi bi-pencil-square"></i></td>';
+                    echo '<td><a href = "usuario_eliminar.php"> <i class="bi bi-trash3-fill"></i></a></td>';
+                    echo '<td><i class="bi bi-power"></i></td>';
                 echo '</tr>';
             }
         }

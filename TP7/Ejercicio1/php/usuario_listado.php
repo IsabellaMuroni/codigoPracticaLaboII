@@ -14,6 +14,9 @@
                                     <th class="bg-secondary text-white">Foto</th>
                                     <th class="bg-secondary text-white">Usuario</th>
                                     <th class="bg-secondary text-white">Tipo</th>
+                                    <th class="bg-secondary text-white">Modificar</th>
+                                    <th class="bg-secondary text-white">Eliminar</th>
+                                    <th class="bg-secondary text-white">Desactivar</th>
                                 </tr>
                                 <?php
                                     include 'procesaMostrar.php';

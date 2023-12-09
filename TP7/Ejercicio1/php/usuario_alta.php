@@ -9,7 +9,7 @@
             <section class="menu_tmp">
                 <p>Opción: Usuarios > Alta</p>
             </section>
-            <form action="usuario_alta_ok.php" method="post" enctype="multipart/form-data" class="bg-secondary border-info">
+            <form action="usuario_alta_ok.php" method="post" enctype="multipart/form-data" class="bg-body-tertiary border-secondary">
                 <legend class="bg-dark border-info text-center">Alta usuario</legend>     
                 <section>
                     <label for="usuario" class="form-label">Usuario</label>
